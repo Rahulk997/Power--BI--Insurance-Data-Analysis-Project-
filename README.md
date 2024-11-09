@@ -21,3 +21,7 @@ This project provides a comprehensive analysis of insurance data using Power BI,
 
 ## Screenshots
 <img width="1062" alt="image" src="https://github.com/user-attachments/assets/e3fc3b96-34b3-4f8d-b723-ab7e83d7b0eb">
+
+## Feel free to contribute or raise issues. Happy to analyzing!!!
+
+This `README` provides an overview, setup instructions, and usage guidance to help others understand and use your Power BI Insurance project.
